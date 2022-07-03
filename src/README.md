@@ -1,5 +1,7 @@
 ## Transaction Propagation
 
+For reference video, refer [here](https://www.youtube.com/watch?v=O9vrhKlGZbE&list=PLOk4ziGG9MBdlyxIDw5wYvj6QZTQ22wvK&index=6).
+
 ### Theory
 1. When is the transaction created? Is it created in the Service or in the Repository?
 2. Where is the transaction ending? Is it getting end in the end of the repository method or is it getting end in the service method?
